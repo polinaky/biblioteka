@@ -1,0 +1,63 @@
+Book title: Boba
+Book's author: null
+Book's pages: 10 
+min age:18
+status: true
+price: 15
+year:2023
+series of books number is:0
+_____________________________
+Book title: Avrora
+Book's author: null
+Book's pages: 150 
+min age:10
+status: true
+price: 10
+year2020
+centery is:21
+_____________________________
+Book title: Knopa
+Book's author: null
+Book's pages: 50
+min age:16
+status: true
+price: 8
+year: 2017
+Fear level is:10
+_____________________________
+Book title: Artis
+Book's author: null
+Book's pages: 290 
+min age: 14
+status: true
+price: 20
+year: 2018
+type  is:frenetic
+_____________________________
+Book title: Love Story
+Book's author: null
+Book's pages: 200 
+min age:16
+status: true
+price: 18
+year:2024
+series of books number is:0
+_____________________________
+Book title: History of Europe
+Book's author: null
+Book's pages: 350 
+min age:4
+status: true
+price: 25
+year2022
+centery is:18
+_____________________________
+Book title: The Dark Night
+Book's author: null
+Book's pages: 120
+min age:5
+status: true
+price: 12
+year: 2019
+Fear level is:15
+_____________________________
